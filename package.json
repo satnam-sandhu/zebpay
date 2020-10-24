@@ -1,0 +1,28 @@
+{
+  "name": "zebpay",
+  "version": "1.0.0",
+  "description": "A wrapper for the Zebpay REST and WebSocket APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satnam-sandhu/zebpay.git"
+  },
+  "keywords": [
+    "zebpay",
+    "bitcoin",
+    "exchange",
+    "cryptocurrency"
+  ],
+  "author": "Satnam Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satnam-sandhu/zebpay/issues"
+  },
+  "homepage": "https://github.com/satnam-sandhu/zebpay#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
